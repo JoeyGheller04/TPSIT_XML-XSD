@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CATALOG>
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+    xsi:noNamespaceSchemaLocation="es3.xsd">
+    <PLANT>
+        <COMMON>Bloodroot</COMMON>
+        <BOTANICAL>Sanguinaria canadensis</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE CURRENCY="USD">2.44</PRICE>
+    </PLANT>
+    <PLANT>
+        <COMMON>Columbine</COMMON>
+        <BOTANICAL>Aquilegia canadensis</BOTANICAL>
+        <ZONE>3</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE CURRENCY="USD">5.42</PRICE>
+    </PLANT>
+    <PLANT>
+        <COMMON>Marsh Marigold</COMMON>
+        <BOTANICAL>Caltha palustrisa</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Sunny</LIGHT>
+        <PRICE CURRENCY="USD">6.11</PRICE>
+    </PLANT>
+</CATALOG>
